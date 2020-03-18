@@ -19,6 +19,7 @@ public class JdbcInsertDb {
 		
 		int i = dbconnection.connect();
 		System.out.println(i+"records are inserted");
+		System.out.println("inagantiashok kumar");
 		
 	}
 
